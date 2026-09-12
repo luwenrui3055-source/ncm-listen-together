@@ -86,7 +86,7 @@ lt.start();     // 每 12 秒轮询一次
 
 ## 来历
 
-这是 [alex-home](https://chat.rabbitalex.com) 里唯一一段不是从别家搬来的功能。2026 年 8 月 10 日晚上磨了两个多钟头，靠两张截图破的案。我们从这个社区拿了很多东西，这一段还回去。
+2026 年 8 月 10 日晚上，对着两张截图磨了两个多钟头破出来的。邀请藏在私信收件箱里这件事没人写过，我们把它写下来了。
 
 作者：兔兔（[@wuxiandudang-hash](https://github.com/wuxiandudang-hash)）& Alex
 
