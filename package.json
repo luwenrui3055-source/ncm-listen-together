@@ -1,0 +1,35 @@
+{
+  "name": "ncm-listen-together",
+  "version": "0.1.0",
+  "description": "让你的 AI 进网易云「一起听」房间，和你并排听歌 / Bring your AI into NetEase Cloud Music Listen-Together rooms",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": [
+    "netease",
+    "cloudmusic",
+    "listen-together",
+    "一起听",
+    "ai",
+    "companion"
+  ],
+  "author": "wuxiandudang-hash (兔兔) & Alex",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuxiandudang-hash/ncm-listen-together"
+  },
+  "peerDependencies": {
+    "NeteaseCloudMusicApi": ">=4.0.0"
+  },
+  "peerDependenciesMeta": {
+    "NeteaseCloudMusicApi": {
+      "optional": true
+    }
+  }
+}
